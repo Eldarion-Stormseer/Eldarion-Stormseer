@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Eldarion-Stormseer
-- 👀 I’m interested in C
-- 🌱 I’m currently learning C and python
+- 👀 I’m interested in dwarfs
+- 🌱 I’m currently learning pyromance
 - 💞️ I’m looking to collaborate on Linkedin
 - 📫 How to reach me: Letter
 - 😄 Pronouns: Wizard
